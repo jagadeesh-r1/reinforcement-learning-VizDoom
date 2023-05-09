@@ -1,10 +1,5 @@
 #!/usr/bin/env python3
 
-
-
-
-
-
 from absl import app, flags
 import itertools
 from random import sample, randint, random
