@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
-"""
-Brandon L Morris
 
-Adapted from work by E. Culurciello
-"""
+
+
+
+
 
 from absl import app, flags
 import itertools
