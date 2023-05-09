@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
-# E. Culurciello, L. Mueller, Z. Boztoprak
-# December 2020
+
+
 
 import itertools as it
 import os
